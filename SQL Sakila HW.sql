@@ -1,4 +1,4 @@
-use sakila;
+use sakila;sharks
 
 -- 1a. Display the first and last names of all actors from the table actor.
 select first_name, last_name from actor;
